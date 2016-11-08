@@ -1,16 +1,14 @@
 ---
-title: Best Practices
-type: introduction
-layout: docs
-parent_section: introduction
-order: 4
+最佳实践
+［介绍］
 ---
 
-## VR Design
+## VR设计
 
 [leapmotion]: https://developer.leapmotion.com/assets/Leap%20Motion%20VR%20Best%20Practices%20Guidelines.pdf
 [oculus]: https://developer.oculus.com/documentation/intro-vr/latest/concepts/bp_intro/
 
+为VR设计不同于平面应用的设计，作为一种新的媒介，还缺少一些令人满意的最佳实践作为参考，因此，我们整理了一些Oculus和LeapMotion上的一些最佳实践指导。
 Designing for VR is different than designing for flat experiences. As a new
 medium, there are new sets of best practices to follow, especially to maintain
 user comfort and presence. This has been thoroughly written about so we defer
